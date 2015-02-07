@@ -1,0 +1,18 @@
+[14-Oct-2008 15:01:01] PHP Fatal error:  (swe) AjaxCore error: getValue cannot find variable name a in /afs/athena.mit.edu/activity/s/swe/web_scripts/ajaxcore/AjaxCore.class.php on line 338
+[14-Oct-2008 16:05:24] PHP Parse error:  (swe) syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /afs/athena.mit.edu/activity/s/swe/web_scripts/admin/student_admin.php on line 119
+[14-Oct-2008 16:05:57] PHP Notice:  (swe) Undefined variable: page_title in /afs/athena.mit.edu/activity/s/swe/web_scripts/src/functions.php on line 431
+[14-Oct-2008 16:06:13] PHP Notice:  (swe) Undefined variable: page_title in /afs/athena.mit.edu/activity/s/swe/web_scripts/src/functions.php on line 431
+[14-Oct-2008 16:06:29] PHP Notice:  (swe) Undefined variable: page_title in /afs/athena.mit.edu/activity/s/swe/web_scripts/src/functions.php on line 431
+[14-Oct-2008 16:06:31] PHP Notice:  (swe) Undefined variable: page_title in /afs/athena.mit.edu/activity/s/swe/web_scripts/src/functions.php on line 431
+[14-Oct-2008 16:07:03] PHP Notice:  (swe) Undefined variable: page_title in /afs/athena.mit.edu/activity/s/swe/web_scripts/src/functions.php on line 431
+[14-Oct-2008 16:07:04] PHP Notice:  (swe) Undefined variable: page_title in /afs/athena.mit.edu/activity/s/swe/web_scripts/src/functions.php on line 431
+[14-Oct-2008 16:07:29] PHP Notice:  (swe) Undefined variable: page_title in /afs/athena.mit.edu/activity/s/swe/web_scripts/src/functions.php on line 431
+[14-Oct-2008 16:07:30] PHP Notice:  (swe) Undefined variable: page_title in /afs/athena.mit.edu/activity/s/swe/web_scripts/src/functions.php on line 431
+[05-Jan-2015 16:18:57 America/New_York] PHP Deprecated:  (swe) mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /afs/athena.mit.edu/activity/s/swe/web_scripts/src/database.php on line 24
+[05-Jan-2015 16:18:57 America/New_York] PHP Warning:  (swe) Cannot modify header information - headers already sent by (output started at /afs/athena.mit.edu/activity/s/swe/web_scripts/src/database.php:24) in /afs/athena.mit.edu/activity/s/swe/web_scripts/src/functions.php on line 102
+[19-Jan-2015 13:05:26 America/New_York] PHP Deprecated:  (swe) mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /afs/athena.mit.edu/activity/s/swe/web_scripts/src/database.php on line 24
+[19-Jan-2015 13:05:26 America/New_York] PHP Warning:  (swe) Cannot modify header information - headers already sent by (output started at /afs/athena.mit.edu/activity/s/swe/web_scripts/src/database.php:24) in /afs/athena.mit.edu/activity/s/swe/web_scripts/src/functions.php on line 102
+[30-Jan-2015 19:42:31 America/New_York] PHP Deprecated:  (swe) mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /afs/athena.mit.edu/activity/s/swe/web_scripts/src/database.php on line 24
+[30-Jan-2015 19:42:31 America/New_York] PHP Warning:  (swe) Cannot modify header information - headers already sent by (output started at /afs/athena.mit.edu/activity/s/swe/web_scripts/src/database.php:24) in /afs/athena.mit.edu/activity/s/swe/web_scripts/src/functions.php on line 102
+[31-Jan-2015 03:13:36 America/New_York] PHP Deprecated:  (swe) mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /afs/athena.mit.edu/activity/s/swe/web_scripts/src/database.php on line 24
+[31-Jan-2015 03:13:36 America/New_York] PHP Warning:  (swe) Cannot modify header information - headers already sent by (output started at /afs/athena.mit.edu/activity/s/swe/web_scripts/src/database.php:24) in /afs/athena.mit.edu/activity/s/swe/web_scripts/src/functions.php on line 102

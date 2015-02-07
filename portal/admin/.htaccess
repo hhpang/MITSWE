@@ -1,0 +1,3 @@
+AuthType SSLCert
+Require afsgroup system:swe-exec
+ErrorDocument 401 /__scripts/needcerts

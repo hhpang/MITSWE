@@ -1,0 +1,57 @@
+.chromestyle ul{
+border: 0px;
+width: 100%;
+padding: 0px;
+margin: 0;
+text-align: center; /*set value to "left", "center", or "right"*/
+}
+
+.chromestyle ul li{
+display: inline;
+}
+
+.chromestyle ul li a{
+padding: 0px;
+margin: 0px;
+text-decoration: none;
+border-right: 0px;
+}
+
+
+
+/* ######### Style for Drop Down Menu ######### */
+
+.dropmenudiv{
+text-align: center;
+position:absolute;
+top: 0;
+border-bottom: 1px #d5d5d5 solid; /*THEME CHANGE HERE*/
+border-bottom-width: 0;
+font:15px arial;
+letter-spacing: 1px;
+line-height:30px;
+z-index:0;
+background-color: #fafafa;
+visibility: hidden;
+opacity:0.95;
+filter:alpha(opacity=95);
+
+}
+
+
+.dropmenudiv a{
+width: auto;
+display: block;
+text-indent: 3px;
+border-bottom: 1px #d5d5d5 solid; /*THEME CHANGE HERE*/
+text-decoration: none;
+color: black;
+}
+
+* html .dropmenudiv a{ /*IE only hack*/
+width: 100%;
+}
+
+.dropmenudiv a:hover{ /*THEME CHANGE HERE*/
+background-color: #F0F0F0;
+}

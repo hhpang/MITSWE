@@ -1,0 +1,4 @@
+AuthType SSLCert
+Require user wuyi lizaxu
+ErrorDocument 401 /__scripts/needcerts 
+

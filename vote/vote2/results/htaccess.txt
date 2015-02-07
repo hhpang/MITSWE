@@ -1,0 +1,3 @@
+AuthType SSLCert
+Require user yijing anikag pritee quanquan
+ErrorDocument 401 /__scripts/needcerts

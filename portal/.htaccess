@@ -1,0 +1,3 @@
+AuthType SSLCert
+Require afsgroup system:mitswe-members system:swe-exec system:sweboard13
+ErrorDocument 401 /__scripts/needcerts

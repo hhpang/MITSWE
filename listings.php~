@@ -1,0 +1,58 @@
+<!-- This template is for everything in SUBDIRECTORIES -->
+
+
+<meta http-equiv="UTF-8" content="text/html; charset=ISO-8859-1">
+<?php include('../header.php'); ?>
+
+
+
+<div id="templatehead">
+
+<div id="templatehead-text">
+
+<!-- Page Title -->
+
+Outreach Events
+
+
+
+<?php include('../header2.php');?>
+
+
+
+<!-- Body -->
+<script>
+    function expand(elem) {
+	document.getElementById(elem).style.display = "block";
+    }
+</script>
+
+
+<p><h4>Outreach is the largest section of MIT SWE, where we work to create programming that helps inspire over 800 students per year to pursue Science, Technology, Engineering, and Math (STEM) education and careers.</p>
+
+<p>See below to to find a listing of all of our outreach programming, to join our mailing list (if you are MIT-affiliated), and to find 
+where to direct your questions!</h4></p><br>
+
+
+
+
+
+
+
+<?php include('../calendar.php'); ?>
+
+
+
+<!-- Right panel -->
+
+
+
+
+
+
+
+
+
+<?php include('../footer.php'); ?>
+
+

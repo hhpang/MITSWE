@@ -1,0 +1,116 @@
+</div>
+</div>
+</td>
+
+<td valign="top">
+<div id="right" style="float:right">
+<div id="margins">
+
+
+<span class="title">Upcoming Events</span>
+<br>
+
+<br><table id="calendar">
+<tr>
+<td>
+<div id="calendar-date">2/4</div>
+<div id="calendar-space"></div>
+<div id="calendar-time">6pm</div>
+</td>
+<td>
+<div id="calendar-info">Monday<br>
+<b>Meet and Greet </b><br>
+Welcome event with casual Q&A about applying to the 2013 SWE Board, hosted by the executive team.
+<br>
+</td>
+</tr></table>
+
+<br><table id="calendar">
+<tr>
+<td>
+<div id="calendar-date">2/5</div>
+<div id="calendar-space"></div>
+<div id="calendar-time">12:00am</div>
+</td>
+<td>
+<div id="calendar-info">Tuesday<br>
+<b>SWE Board Applications Due</b><br>
+Want to join the SWE planning board? Get your applications in by today!<br>
+</td>
+</tr></table>
+
+<!--
+<br><table id="calendar">
+<tr>
+<td>
+<div id="calendar-date">12/12</div>
+<div id="calendar-space"></div>
+<div id="calendar-time">7:00pm</div>
+</td>
+<td>
+<div id="calendar-info">Wednesday<br>
+<b>SWE Finals Stress Relief: Yoga and Granola!</b><br>
+Free yoga class and create-your-own-granola bar. What's not to love?<br>
+</td>
+</tr></table><br>-->
+<!--
+<br><table id="calendar">
+<tr>
+<td>
+<div id="calendar-date">11/26</div>
+<div id="calendar-space"></div>
+<div id="calendar-time">8:00pm</div>
+</td>
+<td>
+<div id="calendar-info">Monday<br>
+<b>IAP Panel</b><br>
+Learn about the cool things that SWE members did during IAP!
+<br>
+</td>
+</tr></table><br> -->
+    
+<br><table id="calendar">
+<tr>
+<td>
+<div id="calendar-date">2/16</div>
+<div id="calendar-space"></div>
+<div id="calendar-time">9:00am</div>
+</td>
+<td>
+<div id="calendar-info">Saturday<br>
+<b>Board Retreat</b><br>
+Join us for a day long SWE board retreat at the beautiful MIT Endicott House.<br>
+</td>
+</tr></table>
+    
+<br><table id="calendar">
+<tr>
+<td>
+<div id="calendar-date">2/23</div>
+<div id="calendar-space"></div>
+<div id="calendar-time">1:00pm</div>
+</td>
+<td>
+<div id="calendar-info">Saturday<br>
+<b>MIT Museum Eweek</b><br>
+Teach kids about the world of engineering through interactive activities. Volunteers appreciated.<br>
+</td>
+</tr></table>
+
+<span style="font-size: 11px; float: right;">View the full Google Calendar <a href="/members/calendar.php">here</a></span>
+
+<br><br><p>
+<span class="title">Awards from FY12</span>
+<br>
+<img src="/images/2012_Boeing_Found_Multi_Recp.jpg">
+<br>
+<img src="/images/2012_Transition.jpg">
+<br>
+<span class="title">Awards from FY11</span>
+<br>
+<img src="/images/2011Best_Coll_Sec_website.jpg">
+<br>
+<img src="/images/2011Best_Prof_Dev_Event.jpg">
+<br>
+<img src="/images/2011Boeing_Found_Multi_Recp.jpg">
+</p>
